@@ -2,9 +2,9 @@
 Hepsiburada Test Case
 Hepsiburada uygulaması üzerinden yapılacak otomasyon senaryoları;
 
-Login Case
+Login Case:
 • Uygulama açılır
-• Animasyon kapaKlır.
+• Animasyon kapatılır.
 • User account sayfası açılır.(Anasayfa sağ üst köşedeki ikon)
 • Giriş yap’a basılır.
 • Açılan login ekranındaki alanlar doldurulur ver giriş yapa basılır.
@@ -14,7 +14,7 @@ Login Case
 • Üyelik bilgilerim sayfasından çıkılır.
 • Değişikliğin kaydedildiği kontrol edilir.
 
-Product Detail
+Product Detail:
 • Uygulama açılır
 • Anasayfada scroll yapılır ve Süper Fiyat, Süper Teklif’e basılır.
 • Süper Fiyat, Süper Teklif sayfasından bir ürüne basılır.(Birden fazla görseli olan ürün
